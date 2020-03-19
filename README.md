@@ -1,7 +1,7 @@
 # Godot-GDScript-EX-1
 Learning the game engine, syntax, classes, modules, objects &amp; interface. Uploaded to Github pages.
 
-python3 -m http.server 8000
+python3 -m http.server 8000 (for testing purposes in local)
 
 ## Github pages
 
